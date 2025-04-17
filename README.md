@@ -95,5 +95,4 @@ Contributions are welcome!
 
 ## License
 
-<!-- TODO: Add your chosen license information here. MIT is a common choice. -->
-Example: This project is licensed under the MIT License - see the LICENSE.md file for details.
+Example: This project is licensed under the Apache 2.0 License - see the LICENSE.md file for details.
