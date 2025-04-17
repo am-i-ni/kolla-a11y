@@ -2,7 +2,7 @@
 
 Kolla A11y ("Check Accessibility" in Swedish) is a simple browser bookmarklet designed for developers, designers, and accessibility specialists to perform quick, common accessibility checks on web pages. It injects a toolbar at the top of the page providing access to various analysis tools.
 
-<!-- TODO: Add a screenshot of the toolbar in action -->
+![Screenshot of the Kolla A11y toolbar active on a webpage](./screenshot.png)
 
 ## Features (Current)
 
